@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codingmanagerratio.github.io/archive-4sb1zu/sitemap.xml
